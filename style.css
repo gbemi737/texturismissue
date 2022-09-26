@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;1,400;1,600&display=swap');
+body {
+  background-color: #ACC27B;
+}
+.menu{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
+  background-color: #738252;
+  background-image: url("afrogirl.jpeg");
+  opacity: 0.6;
+}
+.mainContainer{
+  padding-left: 300px;
+  color: #2D3320;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 300;
+}
+.navLink{
+  color: #000000;
+  font-size: 30px;
+  text-decoration: none;
+}
+.otherpageheader{
+  font-size: 50px;
+  color: #2D3320;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 500;
+}
